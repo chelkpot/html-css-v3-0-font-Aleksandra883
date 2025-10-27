@@ -1,0 +1,17 @@
+#fff{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique; 
+    font-variant: small-caps;
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration:underline;
+    text-align:center;
+    text-indent:10px;
+    text-transform:lowercase;
+}
+#ddd:hover{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
